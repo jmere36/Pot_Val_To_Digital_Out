@@ -1,3 +1,4 @@
+// Version: 1.0.0
 // Created By: Jmere36
 // Purpose: To read and change the output of a digital pin through a potentiometer or other sensors 
 // Has the feature of telling you what output is at and what specific value in the serial monitor
